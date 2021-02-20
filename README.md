@@ -5,9 +5,13 @@ Home: https://github.com/amirziai/flatten
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flatten_json-feedstock/blob/master/LICENSE.txt)
 
 Summary: Flatten JSON objects
+
+Development: https://github.com/amirziai/flatten
+
+Documentation: https://github.com/amirziai/flatten
 
 Flattens JSON objects in Python. flatten_json flattens the hierarchy in
 your object which can be useful if you want to force your objects into a table.
